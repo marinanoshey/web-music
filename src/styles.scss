@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --bg-dark-blue: #181A1E;
+  --bg-vibrant-green: #29E552;
+  --bg-royal-blue: #1B4F90;
+  --header-gradient: linear-gradient(to right, #FFFFFF 0%, #999999 100%);
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #181A1E;
+  color: white;
+  min-height: 100vh;
+}
